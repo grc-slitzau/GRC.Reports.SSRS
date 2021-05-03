@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Epicor10Reporting">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=GRC-E10SQL;Initial Catalog=Epicor10Reporting</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ab0748de-c69b-41db-a1d0-6a671d10ec68</DataSourceID>
+</RptDataSource>
